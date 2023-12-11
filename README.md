@@ -76,12 +76,13 @@
 * Given that the automation runs in different browsers, it is required to have installed [Chrome](https://www.google.com/intl/es_es/chrome/), [Firefox](https://www.mozilla.org/es-ES/firefox/new/) , [Edge](https://www.microsoft.com/es-es/edge?form=MA13FJ)
 * Clone the project from its **main** branch by running the following command:
 `git clone https://github.com/dfmerchan2/challenge-devsu.git`
-
+---
 ## Evidence Execution
 ![img_2.png](evidence/img_2.png)
 ![img_1.png](evidence/img_1.png)
 ![img.png](evidence/img.png)
 
+---
 ## Autor 🤖
 
 * Diego Fernando Merchan Jimenez
