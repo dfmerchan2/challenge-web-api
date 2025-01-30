@@ -1,4 +1,4 @@
-# CHALLENGE DEVSU (WEB - API)
+# CHALLENGE (WEB - API)
 
 ## AUTOMATION E2E
 ### Implemented Tools:
